@@ -1,10 +1,4 @@
-/*
 
-TemplateMo 564 Plot Listing
-
-https://templatemo.com/tm-564-plot-listing
-
-*/
 
 /* ---------------------------------------------
 Table of contents
@@ -23,11 +17,7 @@ Table of contents
 12. portfolio
 
 --------------------------------------------- */
-/* 
----------------------------------------------
-font & reset css
---------------------------------------------- 
-*/
+
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap');
 /* 
 ---------------------------------------------
@@ -276,16 +266,16 @@ header
 }
 
 .header-area .main-nav a.logo {
-  background-image: url(../images/white-logo.png);
-  width: 166px;
+  /* background-image: url(../images/black-logo3.png); */
+  width: 130px;
   height: 58px;
   display: inline-block;
   margin-top: 20px;
 }
 
 .background-header .main-nav a.logo {
-  background-image: url(../images/black-logo.png);
-  width: 164px;
+  /* background-image: url(../images/black-logo.png); */
+  width: 200px;
   height: 58px;
   display: inline-block;
   margin-top: 10px;
@@ -724,7 +714,7 @@ Banner Style
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
-  background-image: url(../images/banner-bg.jpg);
+  background-image: url(https://picsum.photos/id/2/1200/400);
   padding: 290px 0px 180px 0px;
   position: relative;
   overflow: hidden;
