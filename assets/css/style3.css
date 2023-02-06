@@ -1,7 +1,6 @@
 .container3{
     margin: 4rem;
     display: flex;
-    background-color: #eee;
     color: #fed85d;
     justify-content: center;
     align-items: center;
@@ -67,11 +66,16 @@
   position: relative;
   width: 300px;
   height: auto;
-  background-color: #fff;
+  border-style: solid;
+  border-color: black;
   margin: 20px;
   border-radius: 10px;
   overflow: hidden;
   box-shadow: 0 30px 20px -25px rgba(174, 190, 231, 0.3);
+  /* background-color: rgba(244, 234, 234, 0.842); */
+  /* background-color: #e5eef9; */
+
+
 }
 
 .card:hover {
